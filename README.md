@@ -1,4 +1,4 @@
 gulpgarage.github.io
 ====================
 
-Tips and tricks to help get started with gulp
+Tips and tricks to help beginners get started with gulp
